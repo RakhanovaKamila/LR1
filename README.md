@@ -33,6 +33,6 @@
 ## Діаграма ER
 матиме наступний вигляд:
 <p align="center">
-  <img src="" width="700"><br>
+  <img src="media/Diagrama.Lab1.png" width="700"><br>
   <i>Рисунок 1 – ER-діаграма бази даних кав’ярні</i>
 </p>
